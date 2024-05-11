@@ -1,17 +1,1 @@
-{
-  "title": "<JUJUTSU KAISEN>",
-  "description": "<CAPÍTULOS JUJUTSU KAISEN>",
-  "artist": "<GEGE AKUTAMI>",
-  "author": "<GEGE AKUTAMI>",
-  "cover": "<https://mangadex.org/covers/c52b2ce3-7f95-469c-96b0-479524fb7a1a/42d5cacf-bed0-436b-9864-7204a83f0e0e.png>",
-  "chapters": {
-    "<chapter number>": {
-      "title": "<chapter name>",
-      "volume": "<volume number>",
-      "groups": {
-        "<MANGÁ DŌJŌ>": "/proxy/api/imgur/chapter/<https://imgur.com/gallery/2Eixask>/"
-      },
-      "last_updated": "1616368746"
-    },
-  }
-}
+
